@@ -76,6 +76,7 @@ python hodge_one_ssc.py --mode info
 Command‑Line Arguments
 
 Argument Default Description
+
 --mode train train, demo, or info
 --device cpu cpu, cuda, or mps
 --N 200 Number of particles
