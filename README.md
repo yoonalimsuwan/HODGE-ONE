@@ -36,7 +36,7 @@ This is a **research prototype** – it does **not** prove the Hodge Conjecture 
 ### Setup
 ```bash
 git clone https://github.com/yoonalimsuwan/HODGE-ONE.git
-cd hodge-one-ssc
+cd hodge-one
 pip install -r requirements.txt
 ```
 
