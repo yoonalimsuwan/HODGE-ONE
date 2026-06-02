@@ -1,6 +1,16 @@
 `
 # HODGE ONE – Differentiable Hodge Conjecture Platform (SSC Edition)
 
+(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20007526-blue)](https://doi.org/10.5281/zenodo.20007526)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20194882-blue)](https://doi.org/10.5281/zenodo.20194882)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19869633-blue)](https://doi.org/10.5281/zenodo.19869633)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20459097-blue)](https://doi.org/10.5281/zenodo.20459097)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20502106-blue)](https://doi.org/10.5281/zenodo.20502106)
+
+
 A fully differentiable computational framework that combines **Semantic‑State Contraction (SSC) dynamics** with a **learnable Self‑Organised Criticality (SOC) kernel** to explore the **Hodge Conjecture**.
 
 The central idea:
