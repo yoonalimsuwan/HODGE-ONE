@@ -63,19 +63,19 @@ Quick Start
 1. Demo run (no training, just a simulation)
 
 ```bash
-python hodge_one_v2.py --mode demo --N 200 --sim-steps 80
+python hodge_one.py --mode demo --N 200 --sim-steps 80
 ```
 
 2. Train to match a random Hodge class
 
 ```bash
-python hodge_one_v2.py --mode train --epochs 500 --lr 0.02 --device cpu
+python hodge_one.py --mode train --epochs 500 --lr 0.02 --device cpu
 ```
 
 3. Show information about the platform
 
 ```bash
-python hodge_one_v2.py --mode info
+python hodge_one.py --mode info
 ```
 
 ---
