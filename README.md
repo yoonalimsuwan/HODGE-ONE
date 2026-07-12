@@ -112,7 +112,7 @@ MIT License – see the LICENSE file for details.
 
 Author
 
-Yoon A Limsuwan – 2026
+PAI , Yoon A Limsuwan – 2026
 
 Open‑source components: PyTorch (BSD), NumPy (BSD), SciPy (BSD), Matplotlib (PSF).
 
