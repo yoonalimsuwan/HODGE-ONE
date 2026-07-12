@@ -2,7 +2,7 @@
 =======================================================================
 HODGE ONE v2 — Differentiable Hodge Conjecture Platform (SSC Edition)
 =======================================================================
-Author       : Yoon A Limsuwan (MSPS NETWORK)
+Author       : PAI , Yoon A Limsuwan (MSPS NETWORK)
 Co-developed : Claude (Anthropic), with prior contributions from
                Gemini / GPT / DeepSeek per project convention.
 License      : MIT
