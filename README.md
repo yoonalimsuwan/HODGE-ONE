@@ -1,5 +1,5 @@
 `
-# HODGE ONE – Differentiable Hodge Conjecture Platform (SSC Edition)
+# HODGE ONE 19 – Differentiable Hodge Conjecture Platform (SSC Edition)
 
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20007526-blue)](https://doi.org/10.5281/zenodo.20007526)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20194882-blue)](https://doi.org/10.5281/zenodo.20194882)
@@ -105,6 +105,8 @@ The training loop:
 Use this code for experimentation, education, and inspiration only. For a rigorous study of the Hodge Conjecture, please refer to classical mathematical literature.
 
 ---
+
+https://doi.org/10.5281/zenodo.23595909
 
 License
 
