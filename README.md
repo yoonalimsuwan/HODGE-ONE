@@ -1,5 +1,5 @@
 `
-# HODGE ONE 19.2 – Differentiable Hodge Conjecture Platform (SSC Edition)
+# HODGE ONE 19.5 – Differentiable Hodge Conjecture Platform (SSC Edition)
 
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20007526-blue)](https://doi.org/10.5281/zenodo.20007526)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20194882-blue)](https://doi.org/10.5281/zenodo.20194882)
