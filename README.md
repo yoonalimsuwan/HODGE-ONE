@@ -1,10 +1,10 @@
 `
-# HODGE ONE 19.5 – Differentiable Hodge Conjecture Platform (SSC Edition)
+# HODGE ONE 19.7 – Differentiable Hodge Conjecture Platform (SSC Edition)
 
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20007526-blue)](https://doi.org/10.5281/zenodo.20007526)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20194882-blue)](https://doi.org/10.5281/zenodo.20194882)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19869633-blue)](https://doi.org/10.5281/zenodo.19869633)
-[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23609703-blue)](https://doi.org/10.5281/zenodo.23609703)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23611530-blue)](https://doi.org/10.5281/zenodo.23611530)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20502106-blue)](https://doi.org/10.5281/zenodo.20502106)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20730429-blue)](https://doi.org/10.5281/zenodo.20730429)
 
@@ -106,7 +106,7 @@ Use this code for experimentation, education, and inspiration only. For a rigoro
 
 ---
 
-https://doi.org/10.5281/zenodo.23609703
+https://doi.org/10.5281/zenodo.23611530
 
 License
 
