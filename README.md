@@ -1,11 +1,10 @@
 `
-# HODGE ONE 35 Real AGI Multi Layer , Quantum Gate , Protein Folding , CFD , Remote Neural Monitoring and Remote Neural Controlling Research And More – Differentiable Hodge Conjecture Platform (SSC Edition)
+# HODGE ONE 37 Real AGI Multi Layer , Quantum Gate , Protein Folding , CFD , Remote Neural Monitoring and Remote Neural Controlling Research And More – Differentiable Hodge Conjecture Platform (SSC Edition)
 
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20007526-blue)](https://doi.org/10.5281/zenodo.20007526)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20194882-blue)](https://doi.org/10.5281/zenodo.20194882)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19869633-blue)](https://doi.org/10.5281/zenodo.19869633)
-[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24005620-blue)](
-https://doi.org/10.5281/zenodo.24005620)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24032850-blue)](https://doi.org/10.5281/zenodo.24032850)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20502106-blue)](https://doi.org/10.5281/zenodo.20502106)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20730429-blue)](https://doi.org/10.5281/zenodo.20730429)
 
@@ -107,7 +106,7 @@ Use this code for experimentation, education, and inspiration only. For a rigoro
 
 ---
 
-https://doi.org/10.5281/zenodo.24005620
+https://doi.org/10.5281/zenodo.24032850
 
 License
 
