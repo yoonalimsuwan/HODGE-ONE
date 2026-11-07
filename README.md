@@ -8,6 +8,8 @@
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20502106-blue)](https://doi.org/10.5281/zenodo.20502106)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20730429-blue)](https://doi.org/10.5281/zenodo.20730429)
 
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20824246-blue)](https://doi.org/10.5281/zenodo.20824246)
+
 
 A fully differentiable computational framework that combines **Semantic‑State Contraction (SSC) dynamics** with a **learnable Self‑Organised Criticality (SOC) kernel** to explore the **Hodge Conjecture**.
 
