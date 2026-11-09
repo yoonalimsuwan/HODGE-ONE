@@ -1,5 +1,5 @@
 `
-# HODGE ONE 42 Real AGI Multi Layer , Quantum Gate , Sub Quantum Photonics Chips , Protein Folding , CFD , Remote Neural Monitoring and Remote Neural Controlling Research And More – Differentiable Hodge Conjecture Platform (SSC Edition)
+# HODGE ONE 42 Real AGI Multi Layer , Multi Agent Selection With Multi Platform (Chips , Cloud , API (JAX , XNU , Pytorch , Etc.)) , Quantum Gate , Sub Quantum Photonics Chips , Protein Folding , CFD , Remote Neural Monitoring and Remote Neural Controlling Research And More – Differentiable Hodge Conjecture Platform (SSC Edition)
 
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20007526-blue)](https://doi.org/10.5281/zenodo.20007526)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20194882-blue)](https://doi.org/10.5281/zenodo.20194882)
